@@ -46,3 +46,27 @@ table {
   }
 
   /* fine main */
+
+  /* inizio footer */
+
+  .oltre {
+      color: rgb(121, 111, 111);
+  }
+
+  .foto1 {
+    width: 270px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.foto2 {
+    width: 270px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);  
+}
+
+h2{
+    color: white;
+}
+
+/* fine footer  */
