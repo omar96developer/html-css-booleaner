@@ -32,3 +32,17 @@
 
  /* inizio main */
  
+thead {
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
+
+#riga {
+    background-color: lightskyblue;
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+  /* fine main */
