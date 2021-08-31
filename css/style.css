@@ -1,3 +1,6 @@
+
+/* inizio header */
+
 .contenitore {
     background-color: rgb(0, 153, 255);
     background-image: url(../img/pattern.png);
@@ -12,3 +15,18 @@
 .vuoto {
     height: 50px;;
 }
+
+.autore {
+    color: rgb(121, 111, 111);
+}
+
+#scritta {
+    color: rgb(0, 153, 255);
+}
+
+ #data {
+     font-size: small;
+ }
+ 
+ /* fine header */
+ 
